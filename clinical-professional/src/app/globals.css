@@ -1,0 +1,121 @@
+@import "tailwindcss";
+
+/* ============================================================
+   Change-Well — CLEAN CLINICAL-PROFESSIONAL design system
+   Palette: Navy #01084A · Light Blue #E9F7FF · Muted Blue #9EC2D3
+   Light Gray-Blue #ABB9C0 · Olive #6A7A1E · Dark Gray #5A5A5A · White
+   Type: Lexend (headings) + Source Sans 3 (body)
+   ============================================================ */
+
+@theme {
+  --color-navy: #01084a;
+  --color-navy-700: #12205f;
+  --color-sky: #e9f7ff;
+  --color-sky-deep: #d5eefb;
+  --color-muted: #9ec2d3;
+  --color-steel: #abb9c0;
+  --color-olive: #6a7a1e;
+  --color-olive-600: #59691a;
+  --color-olive-050: #eef1e2;
+  --color-ink: #4c5763;
+  --color-cream: #f3f7fa;
+  --color-line: #dbe4ea;
+
+  --font-display: var(--font-lexend), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-source), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-xl2: 0.75rem;
+}
+
+:root { --bg: #ffffff; --fg: #3a4753; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+::selection { background: #cfe0e9; color: #01084a; }
+
+.font-display { font-family: var(--font-display); }
+.eyebrow {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 700;
+  font-size: 0.72rem;
+  color: var(--color-olive);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.eyebrow::before {
+  content: "";
+  width: 1.75rem;
+  height: 2px;
+  background: var(--color-olive);
+  display: inline-block;
+}
+.display-1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  color: var(--color-navy);
+}
+.balance { text-wrap: balance; }
+
+/* Buttons: clinical = squared, navy primary */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.5rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.8rem 1.5rem;
+  transition: background-color .16s ease, color .16s ease, box-shadow .16s ease, border-color .16s ease;
+  cursor: pointer;
+  line-height: 1;
+}
+.btn:focus-visible { outline: 3px solid var(--color-muted); outline-offset: 2px; }
+.btn-primary { background: var(--color-navy); color: #fff; }
+.btn-primary:hover { background: var(--color-navy-700); }
+.btn-secondary { background: var(--color-olive); color: #fff; }
+.btn-secondary:hover { background: var(--color-olive-600); }
+.btn-ghost { background: #fff; color: var(--color-navy); box-shadow: inset 0 0 0 1.5px var(--color-line); }
+.btn-ghost:hover { box-shadow: inset 0 0 0 1.5px var(--color-navy); }
+
+/* Cards: hairline border, crisp shadow, small radius */
+.card {
+  background: #fff;
+  border-radius: 0.75rem;
+  border: 1px solid var(--color-line);
+  box-shadow: 0 1px 2px rgba(1,8,74,.04);
+  transition: box-shadow .18s ease, border-color .18s ease, transform .18s ease;
+}
+.card:hover { box-shadow: 0 18px 40px -28px rgba(1,8,74,.4); border-color: var(--color-muted); }
+.soft-shadow { box-shadow: 0 18px 40px -28px rgba(1,8,74,.35); }
+
+/* Clean look: no organic blobs */
+.blob { display: none !important; }
+
+.prose-cw { color: var(--color-ink); font-size: 1.05rem; line-height: 1.75; }
+.prose-cw p { margin-bottom: 1.1rem; }
+.prose-cw h2 { font-family: var(--font-display); color: var(--color-navy); font-weight: 700; font-size: 1.5rem; margin: 2rem 0 .75rem; letter-spacing: -0.01em; }
+
+@keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+.reveal { animation: rise .6s ease both; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal { animation: none; }
+  html { scroll-behavior: auto; }
+}
+
+.nav-group:hover .nav-panel, .nav-group:focus-within .nav-panel {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.nav-panel { opacity: 0; visibility: hidden; transform: translateY(6px);
+  transition: opacity .18s ease, transform .18s ease, visibility .18s; }
