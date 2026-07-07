@@ -1,0 +1,269 @@
+- generic [active] [ref=f2e1]:
+  - link "Skip to content" [ref=f2e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f2e3]:
+    - generic [ref=f2e5]:
+      - generic [ref=f2e6]:
+        - link "972-427-2050" [ref=f2e7] [cursor=pointer]:
+          - /url: tel:9724272050
+          - img [ref=f2e8]
+          - text: 972-427-2050
+        - generic [ref=f2e10]:
+          - img [ref=f2e11]
+          - text: Plano & Austin, Texas
+      - generic [ref=f2e14]:
+        - link "LinkedIn" [ref=f2e15] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/drdiannsanfordchange-well/
+          - img [ref=f2e16]
+        - link "Facebook" [ref=f2e18] [cursor=pointer]:
+          - /url: https://www.facebook.com/Change-Well-Therapy-108278717464014/
+          - img [ref=f2e19]
+        - link "Client Portal" [ref=f2e21] [cursor=pointer]:
+          - /url: https://change-well.clientsecure.me/home
+    - generic [ref=f2e22]:
+      - link "Change-Well home" [ref=f2e23] [cursor=pointer]:
+        - /url: /
+        - img [ref=f2e25]
+        - generic [ref=f2e28]:
+          - generic [ref=f2e29]: Change-Well
+          - generic [ref=f2e30]: Therapy & Testing
+      - navigation "Primary" [ref=f2e31]:
+        - link "Welcome" [ref=f2e33] [cursor=pointer]:
+          - /url: /
+          - text: Welcome
+          - img [ref=f2e34]
+        - link "Clinicians" [ref=f2e37] [cursor=pointer]:
+          - /url: /clinicians
+          - text: Clinicians
+          - img [ref=f2e38]
+        - link "Office Staff" [ref=f2e41] [cursor=pointer]:
+          - /url: /team
+          - text: Office Staff
+          - img [ref=f2e42]
+        - link "Rates & Services" [ref=f2e45] [cursor=pointer]:
+          - /url: /services
+          - text: Rates & Services
+          - img [ref=f2e46]
+        - link "Resources" [ref=f2e49] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=f2e50]
+        - link "Contact" [ref=f2e53] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=f2e54]
+      - link "Book a Consult" [ref=f2e57] [cursor=pointer]:
+        - /url: /contact
+        - text: Book a Consult
+        - img [ref=f2e58]
+  - main [ref=f2e60]:
+    - generic [ref=f2e63]:
+      - link "All clinicians" [ref=f2e64] [cursor=pointer]:
+        - /url: /clinicians
+        - img [ref=f2e65]
+        - text: All clinicians
+      - generic [ref=f2e67]:
+        - img "Dr. Diann Sanford, Psy.D., LPC, LP" [ref=f2e70]
+        - generic [ref=f2e71]:
+          - paragraph [ref=f2e72]: Founder & Clinical Psychologist
+          - heading "Dr. Diann Sanford" [level=1] [ref=f2e73]
+          - paragraph [ref=f2e74]: Psy.D., LPC, LP
+          - generic [ref=f2e75]:
+            - generic [ref=f2e76]: Integrative & holistic therapy
+            - generic [ref=f2e77]: Psychological evaluations
+            - generic [ref=f2e78]: Couples & conflict resolution
+            - generic [ref=f2e79]: Heart Rate Variability (HRV)
+          - blockquote [ref=f2e80]: “With kindness and enthusiasm, we will work with you to create the changes and the life you earnestly desire — building better balance, healthier relationships, and closer connections with those you love.”
+    - generic [ref=f2e83]:
+      - generic [ref=f2e84]:
+        - heading "About Sanford" [level=2] [ref=f2e85]
+        - paragraph [ref=f2e86]: Dr. Diann Sanford is the owner of Change-Well, PLLC and a licensed Texas psychologist in private practice. She has served as a therapist and psychologist in group practice treating a diverse population — including soldiers and their families — and is skilled at applying a wide range of psychotherapeutic approaches, with a special interest in integrative, strengths-based, and holistic care.
+        - paragraph [ref=f2e87]: Her clients have presented with concerns ranging from major depression, mood and adjustment disorders, and addictions to personality disorders, spanning ages seven through senior adulthood. She has conducted clinical evaluations for children, adolescents, and adults, and has worked in both inpatient and outpatient behavioral health settings performing intakes, crisis management, and individual and group counseling.
+        - paragraph [ref=f2e88]: Dr. Sanford presented Heart Rate Variability (HRV) research at the Texas Psychological Association in 2019, and completed her doctoral project on the use of HRV as an intervention in the treatment of depression, anxiety, and ADHD. A former adjunct university professor and public-school educator, she brings a rich background in teaching, talent development, and performance coaching to her work.
+        - generic [ref=f2e89]:
+          - link "Request an appointment" [ref=f2e90] [cursor=pointer]:
+            - /url: /contact
+            - text: Request an appointment
+            - img [ref=f2e91]
+          - link "View services" [ref=f2e93] [cursor=pointer]:
+            - /url: /services
+            - text: View services
+            - img [ref=f2e94]
+      - complementary [ref=f2e96]:
+        - generic [ref=f2e97]:
+          - paragraph [ref=f2e98]: Education & credentials
+          - list [ref=f2e99]:
+            - listitem [ref=f2e100]:
+              - img [ref=f2e101]
+              - text: Psy.D. in Clinical Psychology, Magna Cum Laude
+            - listitem [ref=f2e103]:
+              - img [ref=f2e104]
+              - text: M.A. in Professional Counseling, Summa Cum Laude
+            - listitem [ref=f2e106]:
+              - img [ref=f2e107]
+              - text: B.S. in Special Education
+            - listitem [ref=f2e109]:
+              - img [ref=f2e110]
+              - text: "LP License #38403 · LPC License #74944 · Texas · Practicing since 2014"
+        - generic [ref=f2e112]:
+          - paragraph [ref=f2e113]: Ready to connect?
+          - paragraph [ref=f2e114]: In-person in Plano or secure telehealth across Texas.
+          - link "972-427-2050" [ref=f2e115] [cursor=pointer]:
+            - /url: tel:9724272050
+            - img [ref=f2e116]
+            - text: 972-427-2050
+    - generic [ref=f2e119]:
+      - generic [ref=f2e120]:
+        - heading "More of our team" [level=2] [ref=f2e121]
+        - link "View all" [ref=f2e122] [cursor=pointer]:
+          - /url: /clinicians
+          - text: View all
+          - img [ref=f2e123]
+      - generic [ref=f2e125]:
+        - link "Duni Porter Duni Porter Child & Family Therapist" [ref=f2e126] [cursor=pointer]:
+          - /url: /clinicians/duni-porter
+          - img "Duni Porter" [ref=f2e128]
+          - generic [ref=f2e129]:
+            - heading "Duni Porter" [level=3] [ref=f2e130]
+            - paragraph [ref=f2e131]: Child & Family Therapist
+        - link "Teresa Guillory Lyons Teresa Guillory Lyons Licensed Clinical Social Worker" [ref=f2e132] [cursor=pointer]:
+          - /url: /clinicians/teresa-lyons
+          - img "Teresa Guillory Lyons" [ref=f2e134]
+          - generic [ref=f2e135]:
+            - heading "Teresa Guillory Lyons" [level=3] [ref=f2e136]
+            - paragraph [ref=f2e137]: Licensed Clinical Social Worker
+        - link "Bridget Jaecks Bridget Jaecks Trauma & Addiction Specialist" [ref=f2e138] [cursor=pointer]:
+          - /url: /clinicians/bridget-jaecks
+          - img "Bridget Jaecks" [ref=f2e140]
+          - generic [ref=f2e141]:
+            - heading "Bridget Jaecks" [level=3] [ref=f2e142]
+            - paragraph [ref=f2e143]: Trauma & Addiction Specialist
+    - generic [ref=f2e148]:
+      - generic [ref=f2e149]:
+        - paragraph [ref=f2e150]: Schedule an appointment today
+        - heading "Take the first step toward feeling well." [level=2] [ref=f2e151]
+        - paragraph [ref=f2e152]: Individual, couples & family therapy · intensives, retreats & workshops · crisis interventions. Most insurance accepted, with self-pay options available. Sessions in person in Plano or online across Texas.
+        - generic [ref=f2e153]:
+          - link "Send a Message" [ref=f2e154] [cursor=pointer]:
+            - /url: /contact
+            - text: Send a Message
+            - img [ref=f2e155]
+          - link "972-427-2050" [ref=f2e157] [cursor=pointer]:
+            - /url: tel:9724272050
+            - img [ref=f2e158]
+            - text: 972-427-2050
+      - generic [ref=f2e160]:
+        - paragraph [ref=f2e161]: Ready when you are
+        - list [ref=f2e162]:
+          - listitem [ref=f2e163]:
+            - img [ref=f2e164]
+            - text: Measurable improvement for most clients within 5 sessions
+          - listitem [ref=f2e166]:
+            - img [ref=f2e167]
+            - text: In-person in Plano & secure telehealth statewide
+          - listitem [ref=f2e169]:
+            - img [ref=f2e170]
+            - text: A licensed clinician matched to your needs
+        - link "Existing client? Open the portal" [ref=f2e172] [cursor=pointer]:
+          - /url: https://change-well.clientsecure.me/home
+          - text: Existing client? Open the portal
+          - img [ref=f2e173]
+  - contentinfo [ref=f2e175]:
+    - generic [ref=f2e176]:
+      - generic [ref=f2e177]:
+        - generic [ref=f2e178]:
+          - link "Change-Well home" [ref=f2e180] [cursor=pointer]:
+            - /url: /
+            - img [ref=f2e182]
+            - generic [ref=f2e185]:
+              - generic [ref=f2e186]: Change-Well
+              - generic [ref=f2e187]: Therapy & Testing
+          - paragraph [ref=f2e188]: Therapy, psychological testing, and training for children through adults — treating the total person for lasting change and wellness.
+          - generic [ref=f2e189]:
+            - link "LinkedIn" [ref=f2e190] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/drdiannsanfordchange-well/
+              - img [ref=f2e191]
+            - link "Facebook" [ref=f2e193] [cursor=pointer]:
+              - /url: https://www.facebook.com/Change-Well-Therapy-108278717464014/
+              - img [ref=f2e194]
+        - generic [ref=f2e196]:
+          - paragraph [ref=f2e197]: Clinicians
+          - list [ref=f2e198]:
+            - listitem [ref=f2e199]:
+              - link "Dr. Diann Sanford, Psy.D., LPC, LP" [ref=f2e200] [cursor=pointer]:
+                - /url: /clinicians/dr-diann-sanford
+            - listitem [ref=f2e201]:
+              - link "Duni Porter, MS, LPC" [ref=f2e202] [cursor=pointer]:
+                - /url: /clinicians/duni-porter
+            - listitem [ref=f2e203]:
+              - link "Teresa Guillory Lyons, LCSW" [ref=f2e204] [cursor=pointer]:
+                - /url: /clinicians/teresa-lyons
+            - listitem [ref=f2e205]:
+              - link "Bridget Jaecks, LPC-S, LCDC" [ref=f2e206] [cursor=pointer]:
+                - /url: /clinicians/bridget-jaecks
+        - generic [ref=f2e207]:
+          - paragraph [ref=f2e208]: Services
+          - list [ref=f2e209]:
+            - listitem [ref=f2e210]:
+              - link "Services & Testing" [ref=f2e211] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f2e212]:
+              - link "Rates" [ref=f2e213] [cursor=pointer]:
+                - /url: /rates
+            - listitem [ref=f2e214]:
+              - link "Couples Therapy" [ref=f2e215] [cursor=pointer]:
+                - /url: /couples
+            - listitem [ref=f2e216]:
+              - link "Coaching" [ref=f2e217] [cursor=pointer]:
+                - /url: /coaching
+        - generic [ref=f2e218]:
+          - paragraph [ref=f2e219]: Resources
+          - list [ref=f2e220]:
+            - listitem [ref=f2e221]:
+              - link "All Resources" [ref=f2e222] [cursor=pointer]:
+                - /url: /resources
+            - listitem [ref=f2e223]:
+              - link "What to Expect" [ref=f2e224] [cursor=pointer]:
+                - /url: /first-visit
+            - listitem [ref=f2e225]:
+              - link "Crisis Helplines" [ref=f2e226] [cursor=pointer]:
+                - /url: /helplines
+            - listitem [ref=f2e227]:
+              - link "Client Forms" [ref=f2e228] [cursor=pointer]:
+                - /url: /forms
+      - generic [ref=f2e229]:
+        - generic [ref=f2e230]:
+          - paragraph [ref=f2e231]: Main Office
+          - paragraph [ref=f2e232]: 5048 Tennyson Parkway, Suite 110
+          - paragraph [ref=f2e233]: Plano, Texas 75024
+        - generic [ref=f2e234]:
+          - paragraph [ref=f2e235]: Branch Office
+          - paragraph [ref=f2e236]: 13785 Research Blvd, Suite 125
+          - paragraph [ref=f2e237]: Austin, Texas 78750
+        - generic [ref=f2e238]:
+          - paragraph [ref=f2e239]: Contact
+          - link "972-427-2050" [ref=f2e240] [cursor=pointer]:
+            - /url: tel:9724272050
+          - link "liz@change-well.com" [ref=f2e241] [cursor=pointer]:
+            - /url: mailto:liz@change-well.com
+          - paragraph [ref=f2e242]: "Fax: 512-949-4920"
+        - generic [ref=f2e243]:
+          - paragraph [ref=f2e244]: In-Network
+          - paragraph [ref=f2e245]: BCBS · Ambetter · Cigna · Baylor Scott & White · United Healthcare · Optum
+      - generic [ref=f2e246]:
+        - img [ref=f2e247]
+        - generic [ref=f2e249]: In crisis?
+        - text: Call or text 988 (Suicide & Crisis Lifeline), or dial 911 in an emergency.
+        - link "More helplines →" [ref=f2e250] [cursor=pointer]:
+          - /url: /helplines
+      - generic [ref=f2e251]:
+        - paragraph [ref=f2e252]: © 2026 Dr. Diann Sanford, Psy.D., LPC, LP. All rights reserved.
+        - generic [ref=f2e253]:
+          - link "Privacy & Terms" [ref=f2e254] [cursor=pointer]:
+            - /url: /terms
+          - link "Directions" [ref=f2e255] [cursor=pointer]:
+            - /url: /contact/locations
+          - link "Your First Visit" [ref=f2e256] [cursor=pointer]:
+            - /url: /first-visit
+  - button "Open Next.js Dev Tools" [ref=f2e262] [cursor=pointer]:
+    - img [ref=f2e263]

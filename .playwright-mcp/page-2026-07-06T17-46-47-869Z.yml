@@ -1,0 +1,424 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "972-427-2050" [ref=e7] [cursor=pointer]:
+          - /url: tel:9724272050
+          - img [ref=e8]
+          - text: 972-427-2050
+        - generic [ref=e10]:
+          - img [ref=e11]
+          - text: Plano & Austin, Texas
+      - generic [ref=e14]:
+        - link "LinkedIn" [ref=e15] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/drdiannsanfordchange-well/
+          - img [ref=e16]
+        - link "Facebook" [ref=e18] [cursor=pointer]:
+          - /url: https://www.facebook.com/Change-Well-Therapy-108278717464014/
+          - img [ref=e19]
+        - link "Client Portal" [ref=e21] [cursor=pointer]:
+          - /url: https://change-well.clientsecure.me/home
+    - generic [ref=e22]:
+      - link "Change-Well home" [ref=e23] [cursor=pointer]:
+        - /url: /
+        - img [ref=e25]
+        - generic [ref=e28]:
+          - generic [ref=e29]: Change-Well
+          - generic [ref=e30]: Therapy & Testing
+      - navigation "Primary" [ref=e31]:
+        - link "Welcome" [ref=e33] [cursor=pointer]:
+          - /url: /
+          - text: Welcome
+          - img [ref=e34]
+        - link "Clinicians" [ref=e37] [cursor=pointer]:
+          - /url: /clinicians
+          - text: Clinicians
+          - img [ref=e38]
+        - link "Office Staff" [ref=e41] [cursor=pointer]:
+          - /url: /team
+          - text: Office Staff
+          - img [ref=e42]
+        - link "Rates & Services" [ref=e45] [cursor=pointer]:
+          - /url: /services
+          - text: Rates & Services
+          - img [ref=e46]
+        - link "Resources" [ref=e49] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e50]
+        - link "Contact" [ref=e53] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e54]
+      - link "Book a Consult" [ref=e57] [cursor=pointer]:
+        - /url: /contact
+        - text: Book a Consult
+        - img [ref=e58]
+  - main [ref=e60]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - paragraph [ref=e67]: Therapy & Psychological Testing · Plano, Texas
+        - heading "It takes courage to ask for help." [level=1] [ref=e68]
+        - paragraph [ref=e69]: If you are looking for guidance with transitions, anxiety, trauma, fears, depression, or relationships, our team of licensed clinicians is ready to help. Asking for assistance gets easier with a little practice.
+        - generic [ref=e70]:
+          - link "Book a Consultation" [ref=e71] [cursor=pointer]:
+            - /url: /contact
+            - text: Book a Consultation
+            - img [ref=e72]
+          - link "Explore Services" [ref=e74] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - img [ref=e77]
+            - text: Most insurance accepted
+          - generic [ref=e79]:
+            - img [ref=e80]
+            - text: In-person & online
+          - generic [ref=e83]:
+            - img [ref=e84]
+            - text: Plano & Austin, TX
+      - generic [ref=e88]:
+        - img "Dr. Diann Sanford, Psy.D., LPC, LP, founder of Change-Well" [ref=e90]
+        - generic [ref=e91]:
+          - img [ref=e92]
+          - paragraph [ref=e94]: “It takes courage to ask for help — and it gets easier with practice.”
+          - paragraph [ref=e95]: Dr. Diann Sanford
+        - generic [ref=e96]:
+          - paragraph [ref=e97]: 10+
+          - paragraph [ref=e98]: yrs of care
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - paragraph [ref=e103]: "6"
+        - paragraph [ref=e104]: Licensed clinicians
+      - generic [ref=e105]:
+        - paragraph [ref=e106]: "5"
+        - paragraph [ref=e107]: Sessions to visible progress
+      - generic [ref=e108]:
+        - paragraph [ref=e109]: "2"
+        - paragraph [ref=e110]: Texas office locations
+      - generic [ref=e111]:
+        - paragraph [ref=e112]: 100%
+        - paragraph [ref=e113]: Confidential & trauma-informed
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - paragraph [ref=e117]: How we can support you
+        - heading "Care for individuals, couples & families" [level=2] [ref=e118]
+        - paragraph [ref=e119]: Our licensed clinicians use evidence-based, trauma-informed approaches tailored to each person, in person in Plano or through secure telehealth.
+      - generic [ref=e120]:
+        - link "Individual Therapy Evidence-based, trauma-informed support for anxiety, depression, trauma, life transitions, and personal growth — tailored to each client and available in person or by secure telehealth. Learn more" [ref=e121] [cursor=pointer]:
+          - /url: /services
+          - img [ref=e123]
+          - heading "Individual Therapy" [level=3] [ref=e125]
+          - paragraph [ref=e126]: Evidence-based, trauma-informed support for anxiety, depression, trauma, life transitions, and personal growth — tailored to each client and available in person or by secure telehealth.
+          - generic [ref=e127]:
+            - text: Learn more
+            - img [ref=e128]
+        - link "Couples Counseling Help for communication challenges, recurring conflict, trust concerns, and life changes — strengthening connection and building healthier patterns together. Learn more" [ref=e130] [cursor=pointer]:
+          - /url: /couples
+          - img [ref=e132]
+          - heading "Couples Counseling" [level=3] [ref=e136]
+          - paragraph [ref=e137]: Help for communication challenges, recurring conflict, trust concerns, and life changes — strengthening connection and building healthier patterns together.
+          - generic [ref=e138]:
+            - text: Learn more
+            - img [ref=e139]
+        - link "Psychological Evaluation Comprehensive testing and diagnostic clarification for ADHD, autism, learning differences, mood and personality concerns — with clear, actionable feedback. Learn more" [ref=e141] [cursor=pointer]:
+          - /url: /services
+          - img [ref=e143]
+          - heading "Psychological Evaluation" [level=3] [ref=e147]
+          - paragraph [ref=e148]: Comprehensive testing and diagnostic clarification for ADHD, autism, learning differences, mood and personality concerns — with clear, actionable feedback.
+          - generic [ref=e149]:
+            - text: Learn more
+            - img [ref=e150]
+        - link "Family Counseling Support for families navigating communication challenges, conflict, and transitions — strengthening understanding and healthier dynamics within the family system. Learn more" [ref=e152] [cursor=pointer]:
+          - /url: /services
+          - img [ref=e154]
+          - heading "Family Counseling" [level=3] [ref=e158]
+          - paragraph [ref=e159]: Support for families navigating communication challenges, conflict, and transitions — strengthening understanding and healthier dynamics within the family system.
+          - generic [ref=e160]:
+            - text: Learn more
+            - img [ref=e161]
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - img "Sunlight through green leaves" [ref=e168]
+        - generic [ref=e169]:
+          - paragraph [ref=e170]: “Give your power and energy to solutions.”
+          - paragraph [ref=e171]: — Tony Robbins
+      - generic [ref=e172]:
+        - generic [ref=e173]:
+          - paragraph [ref=e174]: Why choose Change-Well
+          - heading "Trust is at the heart of meaningful care" [level=2] [ref=e175]
+          - paragraph [ref=e176]: Our clinicians take time to truly listen and understand each person, offering thoughtful, evidence-based support tailored to your needs.
+        - list [ref=e177]:
+          - listitem [ref=e178]:
+            - img [ref=e180]
+            - generic [ref=e182]: A space where you feel comfortable, respected, and supported
+          - listitem [ref=e183]:
+            - img [ref=e185]
+            - generic [ref=e187]: Personalized treatment plans built around your goals
+          - listitem [ref=e188]:
+            - img [ref=e190]
+            - generic [ref=e192]: Integrative, holistic care for heart, mind, body, and spirit
+          - listitem [ref=e193]:
+            - img [ref=e195]
+            - generic [ref=e197]: Comprehensive psychological testing with clear, useful feedback
+        - link "What to expect on your first visit" [ref=e199] [cursor=pointer]:
+          - /url: /first-visit
+          - text: What to expect on your first visit
+          - img [ref=e200]
+    - generic [ref=e203]:
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - paragraph [ref=e206]: Meet the team
+          - heading "Compassionate, credentialed clinicians" [level=2] [ref=e207]
+        - link "View all clinicians" [ref=e208] [cursor=pointer]:
+          - /url: /clinicians
+          - text: View all clinicians
+          - img [ref=e209]
+      - generic [ref=e211]:
+        - link "Dr. Diann Sanford, Psy.D., LPC, LP Dr. Diann Sanford, Psy.D., LPC, LP Founder & Clinical Psychologist “With kindness and enthusiasm, we will work with you to create the changes and the life you earnestly desire — building better balance, healthier relationships, and closer connections with those you love.”" [ref=e212] [cursor=pointer]:
+          - /url: /clinicians/dr-diann-sanford
+          - img "Dr. Diann Sanford, Psy.D., LPC, LP" [ref=e214]
+          - generic [ref=e215]:
+            - heading "Dr. Diann Sanford, Psy.D., LPC, LP" [level=3] [ref=e216]
+            - paragraph [ref=e217]: Founder & Clinical Psychologist
+            - paragraph [ref=e218]: “With kindness and enthusiasm, we will work with you to create the changes and the life you earnestly desire — building better balance, healthier relationships, and closer connections with those you love.”
+        - link "Duni Porter, MS, LPC Duni Porter, MS, LPC Child & Family Therapist “I love working with children and their families. I work hard to honor, hear, and value each client in my care, helping them navigate complex circumstances by offering real-time solutions.”" [ref=e219] [cursor=pointer]:
+          - /url: /clinicians/duni-porter
+          - img "Duni Porter, MS, LPC" [ref=e221]
+          - generic [ref=e222]:
+            - heading "Duni Porter, MS, LPC" [level=3] [ref=e223]
+            - paragraph [ref=e224]: Child & Family Therapist
+            - paragraph [ref=e225]: “I love working with children and their families. I work hard to honor, hear, and value each client in my care, helping them navigate complex circumstances by offering real-time solutions.”
+        - link "Teresa Guillory Lyons, LCSW Teresa Guillory Lyons, LCSW Licensed Clinical Social Worker “Therapy can not only improve your overall health, body, immune system, mood, mind, and spirit — it can also profoundly influence your relationships and future outcomes.”" [ref=e226] [cursor=pointer]:
+          - /url: /clinicians/teresa-lyons
+          - img "Teresa Guillory Lyons, LCSW" [ref=e228]
+          - generic [ref=e229]:
+            - heading "Teresa Guillory Lyons, LCSW" [level=3] [ref=e230]
+            - paragraph [ref=e231]: Licensed Clinical Social Worker
+            - paragraph [ref=e232]: “Therapy can not only improve your overall health, body, immune system, mood, mind, and spirit — it can also profoundly influence your relationships and future outcomes.”
+        - link "Bridget Jaecks, LPC-S, LCDC Bridget Jaecks, LPC-S, LCDC Trauma & Addiction Specialist “Upon completion of therapy, clients experience resolution from adverse experiences and traumas that previously had impeded their daily living.”" [ref=e233] [cursor=pointer]:
+          - /url: /clinicians/bridget-jaecks
+          - img "Bridget Jaecks, LPC-S, LCDC" [ref=e235]
+          - generic [ref=e236]:
+            - heading "Bridget Jaecks, LPC-S, LCDC" [level=3] [ref=e237]
+            - paragraph [ref=e238]: Trauma & Addiction Specialist
+            - paragraph [ref=e239]: “Upon completion of therapy, clients experience resolution from adverse experiences and traumas that previously had impeded their daily living.”
+        - link "Lori Wilkerson, LCSW Lori Wilkerson, LCSW Licensed Clinical Social Worker “Therapy can offer insights, problem-solving skills, support, and solutions as you face life's challenges — enabling you to see your circumstances as a personal-growth opportunity instead of a burden.”" [ref=e240] [cursor=pointer]:
+          - /url: /clinicians/lori-wilkerson
+          - img "Lori Wilkerson, LCSW" [ref=e242]
+          - generic [ref=e243]:
+            - heading "Lori Wilkerson, LCSW" [level=3] [ref=e244]
+            - paragraph [ref=e245]: Licensed Clinical Social Worker
+            - paragraph [ref=e246]: “Therapy can offer insights, problem-solving skills, support, and solutions as you face life's challenges — enabling you to see your circumstances as a personal-growth opportunity instead of a burden.”
+        - link "Dr. Kandi Stull, Psy.D, LP Dr. Kandi Stull, Psy.D, LP Clinical Psychologist “I see each client as an individual, with distinct value and unique gifts. I will meet you right where you are, face challenges with you, and help you break unhealthy patterns to achieve true change.”" [ref=e247] [cursor=pointer]:
+          - /url: /clinicians/kandi-stull
+          - img "Dr. Kandi Stull, Psy.D, LP" [ref=e249]
+          - generic [ref=e250]:
+            - heading "Dr. Kandi Stull, Psy.D, LP" [level=3] [ref=e251]
+            - paragraph [ref=e252]: Clinical Psychologist
+            - paragraph [ref=e253]: “I see each client as an individual, with distinct value and unique gifts. I will meet you right where you are, face challenges with you, and help you break unhealthy patterns to achieve true change.”
+    - generic [ref=e255]:
+      - generic [ref=e256]:
+        - paragraph [ref=e257]: Just for couples
+        - heading "Intensives, retreats & Gottman workshops" [level=2] [ref=e258]
+        - paragraph [ref=e259]: Focused, extended formats that help partners make meaningful progress faster than weekly sessions alone.
+      - generic [ref=e260]:
+        - link "Customized Couples Therapy Intensives From $1,600 6–8 hour private intensive Customized Couples Therapy Intensives A personalized intensive tailored to your specific needs and focused on creating empowering, lasting transformation. Couples therapy intensives provide focused, extended sessions that allow partners to work more deeply than traditional weekly therapy. Ask about our money-back guarantee." [ref=e261] [cursor=pointer]:
+          - /url: /couples/private-intensives
+          - generic [ref=e262]:
+            - img "Customized Couples Therapy Intensives" [ref=e263]
+            - generic [ref=e264]: From $1,600
+          - generic [ref=e265]:
+            - paragraph [ref=e266]: 6–8 hour private intensive
+            - heading "Customized Couples Therapy Intensives" [level=3] [ref=e267]
+            - paragraph [ref=e268]: A personalized intensive tailored to your specific needs and focused on creating empowering, lasting transformation. Couples therapy intensives provide focused, extended sessions that allow partners to work more deeply than traditional weekly therapy. Ask about our money-back guarantee.
+        - link "Semi-Private Couples Retreats $400–$600 6-hour retreat · 2–3 couples Semi-Private Couples Retreats A six-hour experience alongside a small number of other couples working to move beyond destructive patterns and develop healthier, more supportive ways of connecting. Structured therapeutic guidance and skill-building, with dedicated breakout time for you and your partner. Ask about our money-back guarantee." [ref=e269] [cursor=pointer]:
+          - /url: /couples/semi-private-retreats
+          - generic [ref=e270]:
+            - img "Semi-Private Couples Retreats" [ref=e271]
+            - generic [ref=e272]: $400–$600
+          - generic [ref=e273]:
+            - paragraph [ref=e274]: 6-hour retreat · 2–3 couples
+            - heading "Semi-Private Couples Retreats" [level=3] [ref=e275]
+            - paragraph [ref=e276]: A six-hour experience alongside a small number of other couples working to move beyond destructive patterns and develop healthier, more supportive ways of connecting. Structured therapeutic guidance and skill-building, with dedicated breakout time for you and your partner. Ask about our money-back guarantee.
+        - link "Gottman Foundational Couples Workshops $100–$300 3-hour workshops · varying topics Gottman Foundational Couples Workshops Three-hour workshops focused on foundational relationship skills grounded in the research-supported Gottman Method — practical tools to improve communication, manage conflict, and strengthen emotional connection." [ref=e277] [cursor=pointer]:
+          - /url: /couples/workshops
+          - generic [ref=e278]:
+            - img "Gottman Foundational Couples Workshops" [ref=e279]
+            - generic [ref=e280]: $100–$300
+          - generic [ref=e281]:
+            - paragraph [ref=e282]: 3-hour workshops · varying topics
+            - heading "Gottman Foundational Couples Workshops" [level=3] [ref=e283]
+            - paragraph [ref=e284]: Three-hour workshops focused on foundational relationship skills grounded in the research-supported Gottman Method — practical tools to improve communication, manage conflict, and strengthen emotional connection.
+    - generic [ref=e286]:
+      - img [ref=e287]
+      - paragraph [ref=e289]: “Your present circumstances don’t determine where you can go; they merely determine where you start.”
+      - paragraph [ref=e290]: — Nido Qubein
+    - generic [ref=e292]:
+      - generic [ref=e293]:
+        - generic [ref=e294]:
+          - paragraph [ref=e295]: From our library
+          - heading "Research-informed resources" [level=2] [ref=e296]
+        - link "Browse all resources" [ref=e297] [cursor=pointer]:
+          - /url: /resources
+          - text: Browse all resources
+          - img [ref=e298]
+      - generic [ref=e300]:
+        - link "Well-Being The Science of Happiness Grateful people are happy people. Happiness is not the absence of negative feelings — it grows from appreciation for what we have now. Read more" [ref=e301] [cursor=pointer]:
+          - /url: /resources/happiness
+          - img [ref=e303]
+          - paragraph [ref=e306]: Well-Being
+          - heading "The Science of Happiness" [level=3] [ref=e307]
+          - paragraph [ref=e308]: Grateful people are happy people. Happiness is not the absence of negative feelings — it grows from appreciation for what we have now.
+          - generic [ref=e309]:
+            - text: Read more
+            - img [ref=e310]
+        - link "Well-Being The Effects of Gratitude A simple gratitude-writing practice produces measurable changes in gratefulness and in the brain's sensitivity to gratitude over weeks and months. Read more" [ref=e312] [cursor=pointer]:
+          - /url: /resources/gratitude
+          - img [ref=e314]
+          - paragraph [ref=e316]: Well-Being
+          - heading "The Effects of Gratitude" [level=3] [ref=e317]
+          - paragraph [ref=e318]: A simple gratitude-writing practice produces measurable changes in gratefulness and in the brain's sensitivity to gratitude over weeks and months.
+          - generic [ref=e319]:
+            - text: Read more
+            - img [ref=e320]
+        - link "Depression Cognitive Behavioral Therapy for Depression CBT is a psychoeducational, skills-based approach focused on thinking and behavior — identifying the faulty thinking that drives emotional and behavioral difficulty. Read more" [ref=e322] [cursor=pointer]:
+          - /url: /resources/depression
+          - img [ref=e324]
+          - paragraph [ref=e326]: Depression
+          - heading "Cognitive Behavioral Therapy for Depression" [level=3] [ref=e327]
+          - paragraph [ref=e328]: CBT is a psychoeducational, skills-based approach focused on thinking and behavior — identifying the faulty thinking that drives emotional and behavioral difficulty.
+          - generic [ref=e329]:
+            - text: Read more
+            - img [ref=e330]
+    - generic [ref=e336]:
+      - generic [ref=e337]:
+        - paragraph [ref=e338]: Schedule an appointment today
+        - heading "Take the first step toward feeling well." [level=2] [ref=e339]
+        - paragraph [ref=e340]: Individual, couples & family therapy · intensives, retreats & workshops · crisis interventions. Most insurance accepted, with self-pay options available. Sessions in person in Plano or online across Texas.
+        - generic [ref=e341]:
+          - link "Send a Message" [ref=e342] [cursor=pointer]:
+            - /url: /contact
+            - text: Send a Message
+            - img [ref=e343]
+          - link "972-427-2050" [ref=e345] [cursor=pointer]:
+            - /url: tel:9724272050
+            - img [ref=e346]
+            - text: 972-427-2050
+      - generic [ref=e348]:
+        - paragraph [ref=e349]: Ready when you are
+        - list [ref=e350]:
+          - listitem [ref=e351]:
+            - img [ref=e352]
+            - text: Measurable improvement for most clients within 5 sessions
+          - listitem [ref=e354]:
+            - img [ref=e355]
+            - text: In-person in Plano & secure telehealth statewide
+          - listitem [ref=e357]:
+            - img [ref=e358]
+            - text: A licensed clinician matched to your needs
+        - link "Existing client? Open the portal" [ref=e360] [cursor=pointer]:
+          - /url: https://change-well.clientsecure.me/home
+          - text: Existing client? Open the portal
+          - img [ref=e361]
+  - contentinfo [ref=e363]:
+    - generic [ref=e364]:
+      - generic [ref=e365]:
+        - generic [ref=e366]:
+          - link "Change-Well home" [ref=e368] [cursor=pointer]:
+            - /url: /
+            - img [ref=e370]
+            - generic [ref=e373]:
+              - generic [ref=e374]: Change-Well
+              - generic [ref=e375]: Therapy & Testing
+          - paragraph [ref=e376]: Therapy, psychological testing, and training for children through adults — treating the total person for lasting change and wellness.
+          - generic [ref=e377]:
+            - link "LinkedIn" [ref=e378] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/drdiannsanfordchange-well/
+              - img [ref=e379]
+            - link "Facebook" [ref=e381] [cursor=pointer]:
+              - /url: https://www.facebook.com/Change-Well-Therapy-108278717464014/
+              - img [ref=e382]
+        - generic [ref=e384]:
+          - paragraph [ref=e385]: Clinicians
+          - list [ref=e386]:
+            - listitem [ref=e387]:
+              - link "Dr. Diann Sanford, Psy.D., LPC, LP" [ref=e388] [cursor=pointer]:
+                - /url: /clinicians/dr-diann-sanford
+            - listitem [ref=e389]:
+              - link "Duni Porter, MS, LPC" [ref=e390] [cursor=pointer]:
+                - /url: /clinicians/duni-porter
+            - listitem [ref=e391]:
+              - link "Teresa Guillory Lyons, LCSW" [ref=e392] [cursor=pointer]:
+                - /url: /clinicians/teresa-lyons
+            - listitem [ref=e393]:
+              - link "Bridget Jaecks, LPC-S, LCDC" [ref=e394] [cursor=pointer]:
+                - /url: /clinicians/bridget-jaecks
+        - generic [ref=e395]:
+          - paragraph [ref=e396]: Services
+          - list [ref=e397]:
+            - listitem [ref=e398]:
+              - link "Services & Testing" [ref=e399] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=e400]:
+              - link "Rates" [ref=e401] [cursor=pointer]:
+                - /url: /rates
+            - listitem [ref=e402]:
+              - link "Couples Therapy" [ref=e403] [cursor=pointer]:
+                - /url: /couples
+            - listitem [ref=e404]:
+              - link "Coaching" [ref=e405] [cursor=pointer]:
+                - /url: /coaching
+        - generic [ref=e406]:
+          - paragraph [ref=e407]: Resources
+          - list [ref=e408]:
+            - listitem [ref=e409]:
+              - link "All Resources" [ref=e410] [cursor=pointer]:
+                - /url: /resources
+            - listitem [ref=e411]:
+              - link "What to Expect" [ref=e412] [cursor=pointer]:
+                - /url: /first-visit
+            - listitem [ref=e413]:
+              - link "Crisis Helplines" [ref=e414] [cursor=pointer]:
+                - /url: /helplines
+            - listitem [ref=e415]:
+              - link "Client Forms" [ref=e416] [cursor=pointer]:
+                - /url: /forms
+      - generic [ref=e417]:
+        - generic [ref=e418]:
+          - paragraph [ref=e419]: Main Office
+          - paragraph [ref=e420]: 5048 Tennyson Parkway, Suite 110
+          - paragraph [ref=e421]: Plano, Texas 75024
+        - generic [ref=e422]:
+          - paragraph [ref=e423]: Branch Office
+          - paragraph [ref=e424]: 13785 Research Blvd, Suite 125
+          - paragraph [ref=e425]: Austin, Texas 78750
+        - generic [ref=e426]:
+          - paragraph [ref=e427]: Contact
+          - link "972-427-2050" [ref=e428] [cursor=pointer]:
+            - /url: tel:9724272050
+          - link "liz@change-well.com" [ref=e429] [cursor=pointer]:
+            - /url: mailto:liz@change-well.com
+          - paragraph [ref=e430]: "Fax: 512-949-4920"
+        - generic [ref=e431]:
+          - paragraph [ref=e432]: In-Network
+          - paragraph [ref=e433]: BCBS · Ambetter · Cigna · Baylor Scott & White · United Healthcare · Optum
+      - generic [ref=e434]:
+        - img [ref=e435]
+        - generic [ref=e437]: In crisis?
+        - text: Call or text 988 (Suicide & Crisis Lifeline), or dial 911 in an emergency.
+        - link "More helplines →" [ref=e438] [cursor=pointer]:
+          - /url: /helplines
+      - generic [ref=e439]:
+        - paragraph [ref=e440]: © 2026 Dr. Diann Sanford, Psy.D., LPC, LP. All rights reserved.
+        - generic [ref=e441]:
+          - link "Privacy & Terms" [ref=e442] [cursor=pointer]:
+            - /url: /terms
+          - link "Directions" [ref=e443] [cursor=pointer]:
+            - /url: /contact/locations
+          - link "Your First Visit" [ref=e444] [cursor=pointer]:
+            - /url: /first-visit
+  - button "Open Next.js Dev Tools" [ref=e450] [cursor=pointer]:
+    - img [ref=e451]
